@@ -16,6 +16,7 @@ a skeleton project for running FAKE : F# DSL for build tasks https://fsharp.gith
         ```powershell
         Set-ExecutionPolicy RemoteSigned
         ```
-## how to run
+
+## how to run FAKE build script.
 * macOS: ```./mono_build.sh [fsharp script file]```
 * Windows: ```paket_build.ps1 [fsharp script file]```
